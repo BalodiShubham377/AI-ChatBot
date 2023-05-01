@@ -11,7 +11,7 @@ export default function Home() {
     {
       role: "system",
       content:
-        "You are ChatBot, a helpful AI developed by Jovian and powered by state-of-the-art machine learning models.",
+        "You are ChatBot, a helpful AI  powered by state-of-the-art machine learning models.",
     },
   ]);
 
