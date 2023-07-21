@@ -97,7 +97,7 @@ export default function Home() {
           <textarea
             className="border rounded-md text-lg p-2 flex-1"
             rows={1}
-            placeholder="Ask me anything..."
+            placeholder="Ask me anything......"
             value={userMessage}
             onChange={(e) => setUserMessage(e.target.value)}
           />
